@@ -1,4 +1,4 @@
-# Hi there 👋,I'm Kittiphop
+# Hi there 👋, I'm Kittiphop
 Hey there! I'm a college student with a passion for web development. I've worked on several projects using HTML/CSS, JavaScript, Angular, Blazor, ASP.NET, MS SQL Server, and Git. As someone who loves to build and create, I enjoy working on my own personal projects and exploring new technologies.
 ```javascript
 const profile = {
